@@ -1,8 +1,14 @@
-<button (click)="homepage()">Go Back</button>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <button class="btn btn-light" (click)="homepage()">Go Back</button>
+    <span><i class="fa fa-shopping-cart" style="margin-right: 1rem;"></i>&#8377; {{totalValue}}</span>
 
+  </nav>
 <ul class="list-group list-group-flush">
     <li class="list-group-item" *ngFor="let menuItem of menu">
-    <app-menu-item [menuItem]="menuItem"></app-menu-item>
+    <app-menu-item [menuItem]="menuItem" (cartValChange)="changeCartTotal($event)"></app-menu-item>
     </li>
     
   </ul>
+
+
+  

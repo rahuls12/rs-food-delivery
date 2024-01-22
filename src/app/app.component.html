@@ -1,3 +1,10 @@
+<div class="card text-center" style="background-color: beige;">
+  <div class="card-body">
+    <h5 class="card-title">Rahul's Kitchen</h5>
+    <p class="card-text">The Tastiest Food At Your Doorstep in Minutes</p>
+  </div>
+</div>
+
 <div class="container-fluid">
   <div *ngIf="!displayMenuComp; else menuComp" class="row justify-content-md-center">
     <div *ngFor="let restaurant of restaurants" class="col">
@@ -9,6 +16,3 @@
     <app-restaurant-homepage [menu]="menu" (goback)="backToHomePage()"></app-restaurant-homepage>
   </ng-template>
 </div>
-
-
-

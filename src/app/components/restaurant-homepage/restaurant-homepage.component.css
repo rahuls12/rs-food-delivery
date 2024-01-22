@@ -1,0 +1,21 @@
+nav {
+    z-index: 100;
+    overflow: hidden;
+    position: absolute;
+    top: 5.5rem;
+    width: 100%;
+}
+
+ul {
+    margin-top: 4rem;;
+}
+
+span {
+    position: absolute;
+    left: 90%;
+}
+
+li {
+    margin: 2px;
+    border-radius: 1rem 
+}

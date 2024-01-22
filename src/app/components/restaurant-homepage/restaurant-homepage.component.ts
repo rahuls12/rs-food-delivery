@@ -9,11 +9,16 @@ export class RestaurantHomepageComponent implements OnInit {
 
   @Input() menu: any;
   @Output() goback = new EventEmitter();
+  totalValue = 0;
   constructor() { }
 
   ngOnInit(): void {
   }
   homepage() {
     this.goback.emit();
+  }
+
+  changeCartTotal(val: number){
+    this.totalValue+=val;
   }
 }

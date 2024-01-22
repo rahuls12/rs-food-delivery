@@ -11,3 +11,9 @@ img{
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
+.center{
+  width: 150px;
+    margin: 40px auto;
+    
+  }

@@ -4,6 +4,16 @@
         <h5 class="card-title">{{menuItem.name}}</h5>
         <p class="text-muted">{{menuItem.description}}</p>
         <p>&#8377;{{menuItem.price}} </p>
+        <button *ngIf="primaryBtn; else qtyBtn" class="btn btn-secondary" (click)="add()">Add Item</button>
+
     </div>
 </div>
-
+<ng-template #qtyBtn>
+    <div>
+        <button style="margin-right: 1rem" class="btn btn-outline-secondary" type="button" data-bs-toggle="dropdown"
+            aria-expanded="false" (click)="decrement()">-</button>
+        <span>{{count}}</span>
+        <button style="margin-left: 1rem" class="btn btn-outline-secondary" type="button" data-bs-toggle="dropdown"
+            aria-expanded="false" (click)="increment()">+</button>
+    </div>
+</ng-template>
