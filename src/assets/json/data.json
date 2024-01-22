@@ -50,7 +50,43 @@
         "name": "Roti n Boti",
         "rating": 4.0,
         "address": "Sanjay Nagar",
-        "menu": {}
+        "menu": [
+          {
+            "name": "Choco Lava",
+            "image": "../../../assets/images2/1.jpg",
+            "price": 99,
+            "description": "Rich chocolate cake with molten chocolate center, served warm."
+
+          },
+          {
+            "name": "Idli",
+            "image": "../../../assets/images2/2.jpg",
+            "price": 99,
+            "description": "2 pieces of superb Idlies"
+
+          },
+          {
+            "name": "Jamun",
+            "image": "../../../assets/images2/3.jpg",
+            "price": 9,
+            "description": "10g Jamun per serving"
+
+          },
+          {
+            "name": "Choco Mava",
+            "image": "../../../assets/images2/4.jpg",
+            "price": 99,
+            "description": "Choco Lava nahi, Choco Mava"
+
+          },
+          {
+            "name": "Mississippi Mud Ice cream",
+            "image": "../../../assets/images2/5.jpg",
+            "price": 299,
+            "description": "Yummy Yummy Tasty Ice cream"
+
+          }
+        ]
       },
       {
         "id": 3,
@@ -58,7 +94,43 @@
         "name": "Samsosa Cafe",
         "rating": 4.4,
         "address": "Rajnagar",
-        "menu": {}
+        "menu": [
+          {
+            "name": "Choco Lava",
+            "image": "../../../assets/images2/1.jpg",
+            "price": 99,
+            "description": "Rich chocolate cake with molten chocolate center, served warm."
+
+          },
+          {
+            "name": "Idli",
+            "image": "../../../assets/images2/2.jpg",
+            "price": 99,
+            "description": "2 pieces of superb Idlies"
+
+          },
+          {
+            "name": "Jamun",
+            "image": "../../../assets/images2/3.jpg",
+            "price": 9,
+            "description": "10g Jamun per serving"
+
+          },
+          {
+            "name": "Choco Mava",
+            "image": "../../../assets/images2/4.jpg",
+            "price": 99,
+            "description": "Choco Lava nahi, Choco Mava"
+
+          },
+          {
+            "name": "Mississippi Mud Ice cream",
+            "image": "../../../assets/images2/5.jpg",
+            "price": 299,
+            "description": "Yummy Yummy Tasty Ice cream"
+
+          }
+        ]
       },
       {
         "id": 4,
@@ -66,7 +138,43 @@
         "name": "Birbal Ki Khichadi",
         "rating": 4.7,
         "address": "Gandhi Nagar",
-        "menu": {}
+        "menu": [
+          {
+            "name": "Choco Lava",
+            "image": "../../../assets/images2/1.jpg",
+            "price": 99,
+            "description": "Rich chocolate cake with molten chocolate center, served warm."
+
+          },
+          {
+            "name": "Idli",
+            "image": "../../../assets/images2/2.jpg",
+            "price": 99,
+            "description": "2 pieces of superb Idlies"
+
+          },
+          {
+            "name": "Jamun",
+            "image": "../../../assets/images2/3.jpg",
+            "price": 9,
+            "description": "10g Jamun per serving"
+
+          },
+          {
+            "name": "Choco Mava",
+            "image": "../../../assets/images2/4.jpg",
+            "price": 99,
+            "description": "Choco Lava nahi, Choco Mava"
+
+          },
+          {
+            "name": "Mississippi Mud Ice cream",
+            "image": "../../../assets/images2/5.jpg",
+            "price": 299,
+            "description": "Yummy Yummy Tasty Ice cream"
+
+          }
+        ]
       },
       {
         "id": 5,
@@ -74,7 +182,43 @@
         "name": "Healthy Cafe",
         "rating": 2.7,
         "address": "Rajnagar",
-        "menu": {}
+        "menu": [
+          {
+            "name": "Choco Lava",
+            "image": "../../../assets/images2/1.jpg",
+            "price": 99,
+            "description": "Rich chocolate cake with molten chocolate center, served warm."
+
+          },
+          {
+            "name": "Idli",
+            "image": "../../../assets/images2/2.jpg",
+            "price": 99,
+            "description": "2 pieces of superb Idlies"
+
+          },
+          {
+            "name": "Jamun",
+            "image": "../../../assets/images2/3.jpg",
+            "price": 9,
+            "description": "10g Jamun per serving"
+
+          },
+          {
+            "name": "Choco Mava",
+            "image": "../../../assets/images2/4.jpg",
+            "price": 99,
+            "description": "Choco Lava nahi, Choco Mava"
+
+          },
+          {
+            "name": "Mississippi Mud Ice cream",
+            "image": "../../../assets/images2/5.jpg",
+            "price": 299,
+            "description": "Yummy Yummy Tasty Ice cream"
+
+          }
+        ]
       },
       {
         "id": 6,
@@ -82,7 +226,43 @@
         "name": "Jack n Jill",
         "rating": 3.0,
         "address": "Shahstri Nagar",
-        "menu": {}
+        "menu": [
+          {
+            "name": "Choco Lava",
+            "image": "../../../assets/images2/1.jpg",
+            "price": 99,
+            "description": "Rich chocolate cake with molten chocolate center, served warm."
+
+          },
+          {
+            "name": "Idli",
+            "image": "../../../assets/images2/2.jpg",
+            "price": 99,
+            "description": "2 pieces of superb Idlies"
+
+          },
+          {
+            "name": "Jamun",
+            "image": "../../../assets/images2/3.jpg",
+            "price": 9,
+            "description": "10g Jamun per serving"
+
+          },
+          {
+            "name": "Choco Mava",
+            "image": "../../../assets/images2/4.jpg",
+            "price": 99,
+            "description": "Choco Lava nahi, Choco Mava"
+
+          },
+          {
+            "name": "Mississippi Mud Ice cream",
+            "image": "../../../assets/images2/5.jpg",
+            "price": 299,
+            "description": "Yummy Yummy Tasty Ice cream"
+
+          }
+        ]
       },
       {
         "id": 7,
@@ -90,7 +270,43 @@
         "name": "Aam Rass",
         "rating": 3.5,
         "address": "Shahstri Nagar",
-        "menu": {}
+        "menu": [
+          {
+            "name": "Choco Lava",
+            "image": "../../../assets/images2/1.jpg",
+            "price": 99,
+            "description": "Rich chocolate cake with molten chocolate center, served warm."
+
+          },
+          {
+            "name": "Idli",
+            "image": "../../../assets/images2/2.jpg",
+            "price": 99,
+            "description": "2 pieces of superb Idlies"
+
+          },
+          {
+            "name": "Jamun",
+            "image": "../../../assets/images2/3.jpg",
+            "price": 9,
+            "description": "10g Jamun per serving"
+
+          },
+          {
+            "name": "Choco Mava",
+            "image": "../../../assets/images2/4.jpg",
+            "price": 99,
+            "description": "Choco Lava nahi, Choco Mava"
+
+          },
+          {
+            "name": "Mississippi Mud Ice cream",
+            "image": "../../../assets/images2/5.jpg",
+            "price": 299,
+            "description": "Yummy Yummy Tasty Ice cream"
+
+          }
+        ]
       },
       {
         "id": 8,
@@ -98,7 +314,43 @@
         "name": "Jyoti Da Dhaba",
         "rating": 3.0,
         "address": "Sanjay Nagar",
-        "menu": {}
+        "menu": [
+          {
+            "name": "Choco Lava",
+            "image": "../../../assets/images2/1.jpg",
+            "price": 99,
+            "description": "Rich chocolate cake with molten chocolate center, served warm."
+
+          },
+          {
+            "name": "Idli",
+            "image": "../../../assets/images2/2.jpg",
+            "price": 99,
+            "description": "2 pieces of superb Idlies"
+
+          },
+          {
+            "name": "Jamun",
+            "image": "../../../assets/images2/3.jpg",
+            "price": 9,
+            "description": "10g Jamun per serving"
+
+          },
+          {
+            "name": "Choco Mava",
+            "image": "../../../assets/images2/4.jpg",
+            "price": 99,
+            "description": "Choco Lava nahi, Choco Mava"
+
+          },
+          {
+            "name": "Mississippi Mud Ice cream",
+            "image": "../../../assets/images2/5.jpg",
+            "price": 299,
+            "description": "Yummy Yummy Tasty Ice cream"
+
+          }
+        ]
       },
       {
         "id": 9,
@@ -106,7 +358,43 @@
         "name": "The Pizza Cafe",
         "rating": 4.5,
         "address": "Shahstri Nagar",
-        "menu": {}
+        "menu": [
+          {
+            "name": "Choco Lava",
+            "image": "../../../assets/images2/1.jpg",
+            "price": 99,
+            "description": "Rich chocolate cake with molten chocolate center, served warm."
+
+          },
+          {
+            "name": "Idli",
+            "image": "../../../assets/images2/2.jpg",
+            "price": 99,
+            "description": "2 pieces of superb Idlies"
+
+          },
+          {
+            "name": "Jamun",
+            "image": "../../../assets/images2/3.jpg",
+            "price": 9,
+            "description": "10g Jamun per serving"
+
+          },
+          {
+            "name": "Choco Mava",
+            "image": "../../../assets/images2/4.jpg",
+            "price": 99,
+            "description": "Choco Lava nahi, Choco Mava"
+
+          },
+          {
+            "name": "Mississippi Mud Ice cream",
+            "image": "../../../assets/images2/5.jpg",
+            "price": 299,
+            "description": "Yummy Yummy Tasty Ice cream"
+
+          }
+        ]
       },
       {
         "id": 10,
@@ -114,7 +402,43 @@
         "name": "The Paneer Cafe",
         "rating": 4.0,
         "address": "Rajnagar",
-        "menu": {}
+        "menu": [
+          {
+            "name": "Choco Lava",
+            "image": "../../../assets/images2/1.jpg",
+            "price": 99,
+            "description": "Rich chocolate cake with molten chocolate center, served warm."
+
+          },
+          {
+            "name": "Idli",
+            "image": "../../../assets/images2/2.jpg",
+            "price": 99,
+            "description": "2 pieces of superb Idlies"
+
+          },
+          {
+            "name": "Jamun",
+            "image": "../../../assets/images2/3.jpg",
+            "price": 9,
+            "description": "10g Jamun per serving"
+
+          },
+          {
+            "name": "Choco Mava",
+            "image": "../../../assets/images2/4.jpg",
+            "price": 99,
+            "description": "Choco Lava nahi, Choco Mava"
+
+          },
+          {
+            "name": "Mississippi Mud Ice cream",
+            "image": "../../../assets/images2/5.jpg",
+            "price": 299,
+            "description": "Yummy Yummy Tasty Ice cream"
+
+          }
+        ]
       }
     ]
   }
