@@ -1,0 +1,13 @@
+img{
+    width: 10rem;
+    height: 10rem;
+    float: inline-end;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+
+.text-muted{
+    white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

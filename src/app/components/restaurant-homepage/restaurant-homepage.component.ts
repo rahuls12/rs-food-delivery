@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
 
 @Component({
   selector: 'app-restaurant-homepage',
@@ -7,9 +7,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class RestaurantHomepageComponent implements OnInit {
 
+  @Input() menu: any;
+  @Output() goback = new EventEmitter();
   constructor() { }
 
   ngOnInit(): void {
   }
-
+  homepage() {
+    this.goback.emit();
+  }
 }

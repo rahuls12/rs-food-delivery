@@ -1,8 +1,14 @@
 <div class="container-fluid">
-  <div class="row justify-content-md-center">
+  <div *ngIf="!displayMenuComp; else menuComp" class="row justify-content-md-center">
     <div *ngFor="let restaurant of restaurants" class="col">
-      <app-restaurant-card [data]="restaurant"></app-restaurant-card>
+      <app-restaurant-card [data]="restaurant" (enterHome)="displayMenu($event)"></app-restaurant-card>
     </div>
   </div>
 
+  <ng-template #menuComp>
+    <app-restaurant-homepage [menu]="menu" (goback)="backToHomePage()"></app-restaurant-homepage>
+  </ng-template>
 </div>
+
+
+

@@ -1,1 +1,8 @@
-<p>restaurant-homepage works!</p>
+<button (click)="homepage()">Go Back</button>
+
+<ul class="list-group list-group-flush">
+    <li class="list-group-item" *ngFor="let menuItem of menu">
+    <app-menu-item [menuItem]="menuItem"></app-menu-item>
+    </li>
+    
+  </ul>

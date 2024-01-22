@@ -6,7 +6,43 @@
         "name": "The Pizza Cafe",
         "rating": 3.7,
         "address": "Rajnagar",
-        "menu": {}
+        "menu": [
+          {
+            "name": "Choco Lava",
+            "image": "../../../assets/images2/1.jpg",
+            "price": 99,
+            "description": "Rich chocolate cake with molten chocolate center, served warm."
+
+          },
+          {
+            "name": "Idli",
+            "image": "../../../assets/images2/2.jpg",
+            "price": 99,
+            "description": "2 pieces of superb Idlies"
+
+          },
+          {
+            "name": "Jamun",
+            "image": "../../../assets/images2/3.jpg",
+            "price": 9,
+            "description": "10g Jamun per serving"
+
+          },
+          {
+            "name": "Choco Mava",
+            "image": "../../../assets/images2/4.jpg",
+            "price": 99,
+            "description": "Choco Lava nahi, Choco Mava"
+
+          },
+          {
+            "name": "Mississippi Mud Ice cream",
+            "image": "../../../assets/images2/5.jpg",
+            "price": 299,
+            "description": "Yummy Yummy Tasty Ice cream"
+
+          }
+        ]
       },
       {
         "id": 2,
